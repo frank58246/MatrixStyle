@@ -10,4 +10,4 @@ GREP_COLOR="1;32" grep --color "[^ ]"
 效果<br/>
 ![輸出](/Image/snap.png) 
 ## 參考來源
-[MatrixStyle]("https://www.commandlinefu.com/commands/view/2531/matrix-style")
+[MatrixStyle](https://www.commandlinefu.com/commands/view/2531/matrix-style)
